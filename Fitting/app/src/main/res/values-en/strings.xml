@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitting</string>
+    <string name="Bay">Men</string>
+    <string name="Bayan">Woman</string>
+    <string name="boy_tv">Length</string>
+    <string name="kilo_tv">Weight</string>
+    <string name="zayif">You\'re weak</string>
+</resources>

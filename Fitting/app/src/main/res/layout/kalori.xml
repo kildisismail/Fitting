@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="540dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="
+
+
+Bazı besinlerin kalori değerleri\n\n
+Sebzeler\n\n
+
+Taze Mısır	96 kcal/100 gr\n
+Bezelye	84 kcal/100 gr\n
+Haşlanmış Patates	76 kcal/100 gr\n
+Pırasa	42 kcal/100 gr\n
+Pancar	43kcal/100 gr\n
+Havuç	42 kcal/100 gr\n
+Kereviz	40 kcal/100 gr\n
+Kuru Soğan	38 kcal/100 gr\n
+Fasülye 	32 kcal/100 gr\n
+Mantar	28 kcal/100 gr\n
+Karnabahar	27 kcal/100 gr\n
+Ispanak	26 kcal/100 gr\n
+Lahana	24 kcal/100 gr\n
+Biber	22 kcal/100 gr\n
+Domates	22 kcal/100 gr\n
+Turp	19 kcal/100 gr\n
+Salatalık	15 kcal/100 gr\n\n
+
+
+Meyveler\n\n
+
+Avokado	167 kcal/100 gr\n
+Muz	85 kcal/100 gr\n
+İncir	80 kcal/100 gr\n
+Erik	75 kcal/100 gr\n
+Kiraz	70 kcal/100 gr\n
+Üzüm	67 kcal/100 gr\n
+Armut	61 kcal/100 gr\n
+Elma	58 kcal/100 gr\n
+Vişne	58 kcal/100 gr\n
+Kayısı	51 kcal/100 gr\n
+Portakal	49 kcal/100 gr\n
+Mandalina	46 kcal/100 gr\n
+Şeftali	38 kcal/100 gr\n
+Çilek	37 kcal/100 gr\n
+Kavun	33 kcal/100 gr\n
+Limon	27 kcal/100 gr\n
+Karpuz	26 kcal/100 gr\n\n
+
+
+Et Ürünleri\n\n
+
+Domuz	513 kcal/100 gr\n
+Ördek	404 kcal/100 gr\n
+Yağlı Koyun Eti	310 kcal/100 gr\n
+Yağlı Sığır Eti	301 kcal/100 gr\n
+Kuzu Pirzola	263 kcal/100 gr\n
+Koyun Eti	246 kcal/100 gr\n
+Az Yağlı Sığır Eti	225 kcal/100 gr\n
+Dana Eti	223 kcal/100 gr\n
+Tavuk Eti	215 kcal/100 gr\n
+Hindi	160 kcal/100 gr\n
+Biftek	156 kcal/100 gr\n\n
+
+
+Süt Ürünleri\n\n
+
+Kaşar Peyniri	404 kcal/100 gr\n
+Krem Peynir	349 kcal/100 gr\n
+Dil Peyniri	330 kcal/100 gr\n
+Beyaz Peynir	289 kcal/100 gr\n
+Tulum Peyniri	257 kcal/100 gr\n
+Krema	134 kcal/100 gr\n
+Koyun Sütü	108 kcal/100 gr\n
+Lor Peyniri	90 kcal/100 gr\n
+Yoğurt	62 kcal/100 gr\n
+İnek Sütü	61 kcal/100 gr\n
+Ayran	38 kcal/100 gr\n\n
+
+
+Yağlar\n\n
+
+Sıvı Yağlar	88 kcal/10 gr(1yemek kaşığı)\n
+Zeytin Yağı	88 kcal/10 gr(1yemek kaşığı)\n
+İç Yağı	75 kcal/10 gr(1yemek kaşığı)\n
+Margarin	71 kcal/10 gr(1yemek kaşığı)\n
+Tereyağı	71 kcal/10 gr(1yemek kaşığı)\n
+Mayonez	39 kcal/10 gr(1yemek kaşığı)\n
+Hardal	14 kcal/10 gr(1yemek kaşığı)\n
+Ketçap	10 kcal/10 gr(1yemek kaşığı)\n\n
+
+
+Kuru Bakliyatlar\n\n
+
+Pirinç	363 kcal/10 gr\n
+Nohut	360 kcal/10 gr\n
+Fasulye	340 kcal/10 gr\n
+Mercimek	340 kcal/10 gr\n\n
+
+
+Ekmek Grubu Besinler\n\n
+
+Talaş Böreği	615 kcal/1 dilim\n
+Mısır Unu	368 kcal/100 gr\n
+Beyaz Un	365 kcal/100 gr\n
+Makarna	307 kcal/85 gr (1 Porsiyon)\n
+Yufka	257 kcal/1ad. (165 gr)\n
+Beyaz Ekmek	69 kcal/ 1 dilim (25 gr)\n
+Çavdar Ekmeği	60 kcal/1 dilim (25 gr)\n
+Kepek Ekmeği	53 kcal/1 dilim (25 gr)\n\n
+
+
+Kuruyemiş\n\n
+
+Ceviz	651 kcal/100 gr\n
+Fındık	634 kcal/100 gr\n
+Badem	598 kcal/100 gr\n
+Antep Fıstığı	594 kcal/100 gr\n
+Yer Fıstığı	582 kcal/100 gr\n
+Patlamış Mısır	386 kcal/100 gr\n
+Kavrulmuş Kestane	245 kcal/100 gr\n
+Haşlanmış Kestane	131 kcal/100 gr\n\n
+
+
+Tatlılar\n\n
+
+Çıkolatalı Pasta	431 kcal/1 dilim\n
+Bisküvi	418 kcal/100 gr\n
+Elmalı Tart	323 kcal/1 dilim\n
+Pandispanya	280 kcal/100 gr\n
+Dondurma	193 kcal/ 3 top (100 gr)\n
+Sütlü Çikolata	106 kcal/ 4 kare (20 gr)\n
+Bİtter Çikolata	95 kcal/ 4 kare (20 gr)\n
+Kakao	29 kcal/ 1 çorba kaşığı (10 gr)\n
+Bal	15 kcal/ 1 tatlı kaşığı (5 gr)\n
+Üzüm Pekmezi	14 kcal/ 1 tatlı kaşığı (5 gr)\n\n
+
+
+İçecekler\n\n
+
+Sütlü ve Şekerli Kakao	91 kcal/100 ml\n
+Kola	59 kcal/100 ml\n
+Elma Suyu	47 kcal/100 ml\n
+Meyveli Soda	46 kcal/100 ml\n
+Portakal Suyu	45 kcal/100 ml\n
+Gazlı İçecek	39 kcal/100 ml\n
+Soğuk Çay	30 kcal/100 ml\n
+Şekersiz Sade Kahve	9 kcal/100 ml\n
+Şekersiz Çay	3 kcal/100 ml\n"
+                tools:layout_editor_absoluteX="7dp"
+                tools:layout_editor_absoluteY="6dp">
+
+
+            </TextView>
+        </ScrollView>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

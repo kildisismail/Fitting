@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="zayif">#7CB342</color>
+    <color name="ideal">#00ACC1</color>
+    <color name="idealden_fazla">#CCD81E</color>
+    <color name="kilolu">#FFB300</color>
+    <color name="obez">#E53935</color>
+    <color name="doktora">#757474</color>
+</resources>

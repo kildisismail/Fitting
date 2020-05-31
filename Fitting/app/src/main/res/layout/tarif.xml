@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="540dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Pizza Bulk Tarifi Malzemeleri\n
+1 yumurta\n
+300 gram tavuk göğüs\n
+2 adet tam tahıllı lavaş veya tortilla\n
+3 yemek kaşığı domates püresi veya domates sosu\n
+100 gram kaşar peyniri\n
+5 dilim cheddar peynir\n
+3 yemek kaşığı zeytinyağı\n
+İstenilen baharatlar ve tuz\n
+
+
+Vücut Geliştirme Pizzası Nasıl Yapılır?\n
+1. Tavuklar küçük küçük doğranıp, zeytinyağı ve baharatlarla iyice karıştırılır.\n
+2. Önceden 200 dereceye ısıtılmış fırında 25 dakika kadar pişirilir.\n
+3. Tortilla veya lavaşımızın üzerine rendelenmiş kaşarların yarısı eklenir, üzerine 1 yaprak daha lavaş eklenir.\n
+4. En üste domates sosu sürülür, rende kaşarların geri kalanı eklenir, üzerine de fırında pişirilen tavuklar eklenir.\n
+5. Son olarak cheddar dilimleri en üste örtülür, pizza 2-3 dakika daha fırında tutulur.\n
+6. Peynirleri eridiğinde, pizzanız hazır.Afiyet olsun!\n
+**250kcal**\n\nPizza Bulk Tarifi Malzemeleri\n
+1 yumurta\n
+300 gram tavuk göğüs\n
+2 adet tam tahıllı lavaş veya tortilla\n
+3 yemek kaşığı domates püresi veya domates sosu\n
+100 gram kaşar peyniri\n
+5 dilim cheddar peynir\n
+3 yemek kaşığı zeytinyağı\n
+İstenilen baharatlar ve tuz\n
+
+
+Vücut Geliştirme Pizzası Nasıl Yapılır?\n
+1. Tavuklar küçük küçük doğranıp, zeytinyağı ve baharatlarla iyice karıştırılır.\n
+2. Önceden 200 dereceye ısıtılmış fırında 25 dakika kadar pişirilir.\n
+3. Tortilla veya lavaşımızın üzerine rendelenmiş kaşarların yarısı eklenir, üzerine 1 yaprak daha lavaş eklenir.\n
+4. En üste domates sosu sürülür, rende kaşarların geri kalanı eklenir, üzerine de fırında pişirilen tavuklar eklenir.\n
+5. Son olarak cheddar dilimleri en üste örtülür, pizza 2-3 dakika daha fırında tutulur.\n
+6. Peynirleri eridiğinde, pizzanız hazır.Afiyet olsun!\n
+**250kcal**"
+            tools:layout_editor_absoluteX="7dp"
+            tools:layout_editor_absoluteY="6dp">
+
+
+        </TextView>
+    </ScrollView>
+    
+</LinearLayout>
+    
+  
+</androidx.constraintlayout.widget.ConstraintLayout>

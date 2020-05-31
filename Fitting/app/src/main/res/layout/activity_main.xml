@@ -1,0 +1,75 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:id="@+id/btnKalori"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="250dp"
+        android:enabled="true"
+        android:scaleType="fitXY"
+        android:textStyle="bold"
+        app:srcCompat="@drawable/calmet" />
+
+
+    <ImageButton
+        android:id="@+id/btnTarif"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="450dp"
+        android:enabled="true"
+        android:scaleType="fitXY"
+        android:textStyle="bold"
+        app:srcCompat="@drawable/fitico" />
+
+
+
+    <ImageButton
+        android:id="@+id/btnEndeks"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:enabled="true"
+        android:scaleType="fitXY"
+        android:textStyle="bold"
+        app:srcCompat="@drawable/vki" />
+
+    <TextView
+        android:id="@+id/txtBoykilo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="20dp"
+        android:text="Boy Kilo Endeksi"
+        android:textColor="@android:color/holo_blue_light" />
+    <TextView
+        android:id="@+id/txtKal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="220dp"
+        android:background="@android:color/background_light"
+        android:text="Yiyecek Kalorileri"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <TextView
+        android:id="@+id/txtTarif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="420dp"
+        android:text="Fit Yemek Tarifleri"
+        android:textColor="@android:color/holo_red_dark" />
+
+
+</RelativeLayout>
